@@ -10,4 +10,4 @@ It include several additional tools:
 
 
 Program Input: see PA Write Up
-inputPath filename/created/modified outputPath
+1. inputPath filename/created/modified outputPath
